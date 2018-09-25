@@ -1,1 +1,19 @@
-/* Add your CSS here */
+#slash { 
+  display: inline;
+}
+
+div h1 {
+  display: block;
+  font-size: 3em;
+  text-align: center;
+}
+
+.at-git {
+  font-size: 1.5rem;
+  text-align: center;
+  margin:0 20% 0 20%;
+}
+
+div a {
+  font-size: 1.2em;
+}
