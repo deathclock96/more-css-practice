@@ -1,1 +1,18 @@
-/* Add your CSS here */
+nav {
+  display:inline-block; 
+  float: left;
+  display: inline-block;
+  padding: 1em;
+  padding-bottom: 100%;
+}
+
+main {
+  padding: 2em;
+  margin: 150px;
+}
+
+
+nav ul li {
+  list-style-type: none;
+}
+
