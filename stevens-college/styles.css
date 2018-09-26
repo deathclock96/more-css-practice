@@ -1,1 +1,32 @@
-/* Add your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 5em;
+  width: 30%;
+  margin-bottom: 10px;
+}
+
+.image {
+  border: 1px solid black; 
+}
+
+div a {
+  display: inline-block;
+  font-size: 1.5em;
+  height: 50px;
+  width: 140px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  margin-left: 20px;
+}
+
+div a:nth-child(1) {
+  margin-left: 550px;
+}
+
+p {
+  font-size: 2em;
+}
