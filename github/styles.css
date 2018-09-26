@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 #slash { 
   display: inline;
 }
@@ -14,6 +17,43 @@ div h1 {
   margin:0 20% 0 20%;
 }
 
-div a {
+#link a {
+  position: relative;
+  left: 40%;
   font-size: 1.2em;
+  padding-right: 10px;
 }
+
+#diverse {
+  position: relative;
+  top: 350px;
+  float: left;
+  width: 30%;
+  font-size: 1.5em;
+}
+
+#work {
+  position: relative;
+  top: 300px;
+  float: left;
+  width: 40%;
+  margin-left: 20%;
+  font-size: 1.5em;
+}
+
+img {
+  position: relative;
+  top: 400px;
+  float: left;
+  margin:0 10px;
+}
+
+
+
+
+
+
+
+
+
+
