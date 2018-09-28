@@ -8,8 +8,9 @@ h1 {
   margin-bottom: 10px;
 }
 
-.image {
-  border: 1px solid black; 
+img {
+  width:50%;
+  margin: 0 20% 0 20%;
 }
 
 div a {
